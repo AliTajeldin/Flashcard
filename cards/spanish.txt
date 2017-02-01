@@ -1,0 +1,5323 @@
+﻿#V48
+s=la ceremonia
+e=ceremony
+--
+s=sencillo
+e=simple
+--
+s=el esfuerzo
+e=effort
+--
+s=el volumen
+e=volume
+--
+s=el me'todo
+e=method
+--
+s=la preocupacio'n
+e=worry
+--
+s=el embajador
+e=ambassador
+--
+s=la estampilla
+e=stamp (n)
+--
+s=definir
+e=to define
+--
+s=an~adir
+e=to add
+--
+s=el hipo'dromo
+e=racetrack (horses)
+--
+s=el impuesto/;la tasa
+e=tax (2)
+--
+s=el riesgo
+e=risk
+--
+s=el elemento
+e=element
+--
+s=la psicologi'a
+e=psychology
+--
+s=alrededor
+e=around
+--
+s=la pista
+e=track, trail,clue
+--
+s=la columna
+e=the column
+--
+s=el pantano
+e=swamp (noun)
+--
+s=entre la espada y la pared
+e=between a rock and a hard place (sword/wall)
+--
+s=la belleza
+e=beauty
+--
+s=enanito-a
+e=dwarf
+--
+s=la red
+e=net, network
+--
+s=considerar
+e=to consider
+--
+s=dispnible (dis-poh-knee-bleh)
+e=available
+--
+s=la revista
+e=magazine
+--
+s=aplicar
+e=to apply
+--
+s=recuperar
+e=to recover
+--
+s=conde -esa
+e=count (nobility)
+--
+s=la realidad
+e=reality
+--
+s=el proceso
+e=the process
+--
+s=el rumbo
+e=course / direction
+--
+s=el curso
+e=course / year
+--
+s=la ausencia
+e=absence
+--
+s=evitar
+e=to avoid
+--
+s=levantar
+e=to lift
+--
+s=morir / muriendo
+e=to die / dying
+--
+s=alcanzar
+e=to reach / to catch up to
+--
+s=establecer
+e=to establish
+--
+s=crear
+e=to create
+--
+s=mantener
+e=to support / maintain
+--
+s=la manga
+e=sleeve
+--
+s=suelta la sopa
+e=spill the beans
+--
+s=la sigla, siglas de
+e=acronym (of)
+--
+s=manchar
+e=to stain
+--
+s=impedir
+e=to prevent, to hinder
+--
+s=la feria
+e=the fair
+--
+s=la patria
+e=homeland
+--
+s=el tiradero
+e=landfill / dump
+--
+s=el palacio
+e=palace
+--
+s=la velocidad
+e=velocity / speed
+--
+s=la cadena
+e=chain (n)
+--
+s=por ejemplo
+e=for example
+--
+s=el bufete
+e=law office
+--
+s=la nuera
+e=daughter in law
+--
+s=el yerno
+e=son in law
+--
+s=el guardaespaldas
+e=bodyguard
+--
+s=tiempo sin verte
+e=long time no see
+--
+s=la estafa
+e=swindle / fraud
+--
+s=el fraude
+e=fraud
+--
+s=hogar dulce hogar
+e=home sweet home
+--
+s=queso suizo derretido
+e=melted swiss cheese
+--
+s=el sicario (see-kar-yo)
+e=hitman
+--
+s=Aunque la mona se vista de ceda, mona se queda
+e=You can't put lipstick on a pig
+--
+s=hechicera
+e=enchanter, witch
+--
+s=el tiempo vale oro
+e=time is money
+--
+s=lamentar
+e=to regret
+--
+s=quedate con el cambio
+e=keep the change
+--
+s=la cura
+e=cure
+--
+s=el psic'opata
+e=psychopath
+--
+s=inquilino
+e=tenant
+--
+s=el reino
+e=kingdom
+--
+s=el secreto
+e=secret
+--
+s=aun cuando
+e=even when
+--
+s=la fuente
+e=fountain / source
+--
+s=la campana/;el timbre
+e=bell (2)
+--
+s=la paradoja
+e=paradox
+--
+s=engan~ar
+e=to deceive
+--
+s=no te engan~es
+e=don't kid yourself
+--
+s=el atau'd
+e=coffin
+--
+s=terco
+e=stubborn
+--
+s=salvaje
+e=savage
+--
+s=la momia
+e=mummy
+--
+s=el manicomio
+e=insane asylum
+--
+s=mostrar
+e=to show
+--
+s=la embajada
+e=embassy
+--
+s=la avalancha
+e=avalanche
+--
+s=chocar
+e=collide / crash
+--
+s=poderosa
+e=powerful
+--
+s=el rompecabezas
+e=puzzle
+--
+s=tradicional
+e=traditional
+--
+s=reciente
+e=recent
+--
+s=distinto
+e=distinct / different
+--
+s=capaz
+e=capable
+--
+s=u'til
+e=useful
+--
+s=ricacho'n
+e=super rich / sugardaddy
+--
+s=bilingu:e
+e=bilingual
+--
+s=el atleta
+e=athelete
+--
+s=el cocinero
+e=the cook
+--
+s=el carpintero
+e=carpenter
+--
+s=el granjero /;el camapesino
+e=farmer (2)
+--
+s=la rasuradora
+e=shaver
+--
+s=el calceti'n
+e=sock
+--
+s=el pri'ncipe
+e=prince
+--
+s=pri'ncipe azul
+e=prince charming
+--
+s=el pintor
+e=painter
+--
+s=el panadero
+e=baker
+--
+s=el sacerdote / el cura
+e=priest (2)
+--
+s=el refrigerador
+e=refrigerator
+--
+s=autor-ora
+e=author
+--
+s=el so'tano
+e=basement
+--
+s=el soldado
+e=soldier
+--
+s=la higiene (ee-he-ye-ne)
+e=hygiene
+--
+s=la secadora
+e=dryer
+--
+s=la lavadora
+e=washer / washing machine
+--
+s=el pan~al
+e=diaper
+--
+s=el escritorio
+e=desk
+--
+s=por las buenas o por las malas
+e=the easy way or the hard way
+--
+s=la cuna
+e=crib
+--
+s=el gesto
+e=gesture (noun)
+--
+s=la esponja
+e=sponge (noun)
+--
+s=sarte'n
+e=frying-pan
+--
+s=usar / utilizar
+e=(2);to use
+--
+s=cubrir, tapar (w/lid)
+e=(2);to cover
+--
+s=la cortina
+e=curtain
+--
+s=la sugerencia; (sue-her-en-seeya)
+e=suggestion
+--
+s=hacer una tormenta en un vaso de agua
+e=make a mountain of a molehill
+--
+s=acerca
+e=about
+--
+s=segu'n
+e=according to
+--
+s=durante
+e=during
+--
+s=hacia
+e=toward
+--
+s=los dientes de leche
+e=baby teeth
+--
+s=esta's despedido
+e=you are fired!
+--
+s=las tijeras
+e=scissors
+--
+s=el bache
+e=pothole
+--
+s=el gis (hees)
+e=chalk
+--
+s=lujoso
+e=luxurious
+--
+s=talo'n de Aquiles
+e=Achilles heel
+--
+s=la sonrisa
+e=smile (noun)
+--
+s=risa fingida
+e=fake laugh
+--
+s=el verbo
+e=verb
+--
+s=el sustantivo
+e=noun
+--
+s=el complido
+e=a compliment
+--
+s=la ma'scara / el antifaz
+e=(2);mask (noun)
+--
+s=la llave
+e=key / faucet
+--
+s=llave inglesa
+e=monkey wrench
+--
+s=retirarse
+e=to retire
+--
+s=cuyo -a
+e=whose
+--
+s=la charola
+e=tray / platter
+--
+s=condena a perpetuidad
+e=life sentence
+--
+s=el bosque
+e=woods / forest
+--
+s=titulares
+e=headlines
+--
+s=delincuente / criminal
+e=(2);criminal
+--
+s=el bolsillo
+e=pocket
+--
+s=te lo adverti
+e=I warned you
+--
+s=rencor
+e=bitterness / hatred
+--
+s=la burbuja; (bore-boo-ha)
+e=bubble
+--
+s=el padrino
+e=godfather
+--
+s=parar
+e=to stop
+--
+s=el oficio
+e=job / trade
+--
+s=la contrasen~a
+e=password
+--
+s=el obsta'culo
+e=obstacle
+--
+s=piel gruesa (grow-sa)
+e=thick skin
+--
+s=oveja negra
+e=black sheep
+--
+s=sensible
+e=sensitive
+--
+s=la colina
+e=hill
+--
+s=el claxo'n
+e=horn (auto)
+--
+s=el cuerno
+e=horn (devil)
+--
+s=la selva
+e=jungle
+--
+s=quejarse
+e=to complain
+--
+s=por si acaso
+e=just in case
+--
+s=la esperanza
+e=hope (noun)
+--
+s=la serpiente /;la vi'bora
+e=(2);snake
+--
+s=te debo una
+e=I owe you one
+--
+s=dividir 4 entre 2
+e=divide 4 by 2
+--
+s=multiplicar 4 por 2
+e=multiply 4 by 2
+--
+s=el caracol
+e=snail
+--
+s=an~adir 4 a 2
+e=add 4 and 2
+--
+s=restar 2 de 4
+e=subtract 2 from 4
+--
+s=infiltrado
+e=infiltrator / mole
+--
+s=malentendido
+e=misunderstanding
+--
+s=el castigo
+e=punishment
+--
+s=el taller
+e=workshop
+--
+s=tengo envenenamiento por comida
+e=I have food poisoning
+--
+s=cazador(a)
+e=hunter
+--
+s=apurate/andale!
+e=(2);hurry up!/come on
+--
+s=parrillada
+e=mixed grill
+--
+s=Ninguno de nosotros ...
+e=None of us ...
+--
+s=Nunca me canso de ...
+e=I never tire of ...
+--
+s=la bendicio'n
+e=blessing
+--
+s=el rostro /; la cara
+e=(2);the face
+--
+s=la espalda
+e=the back (body part)
+--
+s=la docena
+e=dozen
+--
+s=la prueba
+e=test / proof
+--
+s=el pre'stamo
+e=loan (noun)
+--
+s=obtuso
+e=obtuse / stupid
+--
+s=el dinosaurio;(dee-noh-saoo-rio)
+e=dinosaur
+--
+s=liberal
+e=liberal
+--
+s=conservador
+e=conservitive
+--
+s=retirar
+e=to retire
+--
+s=quiero retirarme en …
+e=I want to retire in …
+--
+s=la bancarrota/;la quiebra
+e=(2);bankruptcy
+--
+s=la filosofia
+e=philosophy
+--
+s=la zanahoria
+e=carrot
+--
+s=el apodo
+e=nickname
+--
+s=el ra'bano
+e=radish
+--
+s=el pepino
+e=cucumber
+--
+s=la mancha
+e=stain / spot
+--
+s=la bala
+e=bullet
+--
+s=el plomo
+e=lead
+--
+s=hallazgo
+e=discovery / findings
+--
+s=el espi'a
+e=spy (noun)
+--
+s=registro/certificado de nacimiento
+e=(2);birth certificate
+--
+s=man~oso
+e=crafty / devilish
+--
+s=aplastar
+e=to crush
+--
+s=dar de alta
+e=to discharge / release
+--
+s=adema's
+e=moreover/ besides
+--
+s=mocoso-a
+e=brat
+--
+s=la deuda
+e=debt
+--
+s=estafador -ora
+e=swindler
+--
+s=precisamente
+e=precisely
+--
+s=despreciar
+e=to despise
+--
+s=inu'til
+e=useless
+--
+s=la estrategia
+e=strategy
+--
+s=el chantaje
+e=blackmail (noun)
+--
+s=no digas eso
+e=don't say that
+--
+s=punto flaco
+e=weak point
+--
+s=el conocimiento
+e=knowledge
+--
+s=la cuenta
+e=account / bill
+--
+s=a lo ma's
+e=at most / at worst
+--
+s=el masaje
+e=massage
+--
+s=la ventana
+e=window
+--
+s=abril
+e=april
+--
+s=estudiar
+e=to study
+--
+s=triste
+e=sad
+--
+s=la chaqueta
+e=jacket
+--
+s=el corazo'n
+e=heart
+--
+s=el roce;(raw-say)
+e=rubbing/soft touch/graze/feel;(noun)
+--
+s=con ellos
+e=with them
+--
+s=el estilo/la moda
+e=style / fashion
+--
+s=el plato
+e=plate
+--
+s=el promedio
+e=average
+--
+s=la tesis
+e=thesis
+--
+s=la servilleta
+e=napkin
+--
+s=el pais (state);el campo (country side)
+e=(2);country
+--
+s=desaparecer
+e=to disappear
+--
+s=el aguacate
+e=avocado
+--
+s=la ira
+e=anger
+--
+s=fuegos artificiales
+e=fireworks
+--
+s=moderno-a
+e=modern
+--
+s=callejero-a
+e=bum / stray
+--
+s=la vergu:enza
+e=shame / guilt
+--
+s=caer bien/mal
+e=to like/dislike
+--
+s=la tienda
+e=the store
+--
+s=la cruz
+e=cross (noun)
+--
+s=ha tenido que trabajar
+e=she had to work
+--
+s=adentro
+e=inside
+--
+s=afuera
+e=outside
+--
+s=invierno
+e=winter
+--
+s=algo asi
+e=something like that
+--
+s=vaci'o
+e=empty
+--
+s=la torre
+e=tower
+--
+s=sendero de tierra
+e=dirt path / track
+--
+s=lejos
+e=far away
+--
+s=cerca
+e=close
+--
+s=has visto?
+e=have you seen?
+--
+s=la mariposa
+e=butterfly
+--
+s=astronauta
+e=astronaut
+--
+s=la libreria
+e=bookstore
+--
+s=pastel/tarta de queso
+e=cheesecake
+--
+s=preferir
+e=to prefer
+--
+s=rapido
+e=quickly
+--
+s=olvidar
+e=to forget
+--
+s=la corbata
+e=necktie
+--
+s=mentiroso-a
+e=liar
+--
+s=justicia divina
+e=divine justice
+--
+s=como puede ser?
+e=how can that/it be?
+--
+s=construir
+e=to build
+--
+s=el golpe
+e=blow/knock/bump
+--
+s=privilegio
+e=privilege
+--
+s=la escalera
+e=stairs
+--
+s=volar/volando
+e=to fly/flying
+--
+s=la arena
+e=sand
+--
+s=los pantalones
+e=trousers
+--
+s=soltero-a
+e=single
+--
+s=tengo hambre
+e=I'm hungry
+--
+s=la cuadra
+e=block (of houses/city)
+--
+s=las pantuflas
+e=slippers
+--
+s=el duen~o
+e=owner
+--
+s=por que' no me crees?
+e=why don't you believe me?
+--
+s=el desayuno
+e=breakfast
+--
+s=seguir / siguiendo
+e=to follow / following
+--
+s=sentar
+e=to sit
+--
+s=maravillosa
+e=marvelous
+--
+s=el envi'o
+e=delivery
+--
+s=la sala de espera
+e=the waiting room
+--
+s=poner
+e=to put
+--
+s=el recibo
+e=receipt
+--
+s=el pelo / el cabello
+e=(2);hair
+--
+s=el tiburo'n
+e=shark
+--
+s=tanto-a
+e=so much
+--
+s=el cun~ado-a
+e=brother-in-law;sister-in-law
+--
+s=la ala
+e=wing
+--
+s=el postre
+e=dessert
+--
+s=a lo hecho pecho
+e=what's done is done
+--
+s=la boda
+e=wedding
+--
+s=invitados de honor
+e=guests of honor
+--
+s=el anillo;(ah-knee-yo)
+e=ring
+--
+s=ado'nde va?
+e=where are you going?
+--
+s=manejar (mah-nay-har);conducir (con-doo-seehr)
+e=(2);to drive
+--
+s=limpio
+e=clean
+--
+s=la moneda
+e=coin/currency
+--
+s=reir;(rayer)
+e=to laugh
+--
+s=encantar/amar
+e=(2);to love
+--
+s=la mirada
+e=a look/glance
+--
+s=el cinturo'n
+e=belt
+--
+s=ganar
+e=to win / to earn
+--
+s=crema solar
+e=suntan/sunblock lotion
+--
+s=tengo suerte
+e=I'm lucky
+--
+s=las afueras
+e=outskirts/suburbs
+--
+s=el camerino;(kama-ree-no)
+e=dressing room
+--
+s=comenzar / empezar
+e=(2);to begin/start
+--
+s=las cejas
+e=eyebrows
+--
+s=la guerra
+e=war
+--
+s=el engan~o
+e=deception/illusion
+--
+s=no vale/merece la pena
+e=(2);it's not worth it
+--
+s=primeros auxilios
+e=first aid
+--
+s=la verdad dueles
+e=the truth hurts
+--
+s=varita de virtud/;varita ma'gica
+e=magic wand
+--
+s=es por tu bien
+e=it's for your own good
+--
+s=reencarnacio'n
+e=reincarnation
+--
+s=te lo prometo
+e=I promise
+--
+s=la llamada
+e=phone call/knock/ring
+--
+s=Londres
+e=London
+--
+s=decisivo-a
+e=decisive
+--
+s=cre'ame
+e=believe me
+--
+s=defender
+e=to defend
+--
+s=entrenar
+e=to train/practice
+--
+s=la bu'squeda
+e=the search (noun)
+--
+s=el desafi'o
+e=challenge (noun)
+--
+s=damas y caballeros
+e=ladies and gentlemen
+--
+s=el subti'tulo;(soob-teet-oh-loh)
+e=subtitle
+--
+s=la rubia
+e=blonde
+--
+s=sonarse la nariz
+e=to blow one's nose
+--
+s=vino tinto
+e=red wine
+--
+s=alquilar / el alquiler
+e=rent (verb & noun)
+--
+s=carin~o
+e=darling
+--
+s=grabar
+e=to record/engrave
+--
+s=ordenar
+e=to arrange, tidy
+--
+s=el trabalenguas
+e=tongue-twister
+--
+s=la consecuencia
+e=consequence
+--
+s=el bigote
+e=mustache
+--
+s=rico
+e=rich
+--
+s=pla'tano
+e=banana
+--
+s=la barbacoa
+e=barbecue (BBQ)
+--
+s=ma's vale man~a que fuerza
+e=brain is better than brawn
+--
+s=cuando llego' / llegaste
+e=(2) [form & inf];when did you arrive?
+--
+s=gastar
+e=to spend
+--
+s=el tren
+e=train
+--
+s=sur
+e=south
+--
+s=me ha dicho
+e=s/he has told me
+--
+s=la pesadilla
+e=nightmare
+--
+s=el carnero
+e=sheep
+--
+s=la vaca
+e=cow
+--
+s=la la'mpara
+e=lamp
+--
+s=grosero-a
+e=rude / crude
+--
+s=do'nde/cuando nos encontraremos?
+e=when/where shall we meet?
+--
+s=el tenedor
+e=fork
+--
+s=la pelota
+e=ball
+--
+s=el elefante
+e=elephant
+--
+s=basta!
+e=enough/stop/halt
+--
+s=buscar
+e=to look for/to seek/;to pick up
+--
+s=desafortunadamente;desgraciadamente
+e=(2);unfortunately
+--
+s=el porcentage
+e=percentage
+--
+s=preguntar
+e=to ask
+--
+s=la tapa
+e=top/lid/cover
+--
+s=cibernauta;(see-behr-no-tah)
+e=internet user
+--
+s=la ciudad
+e=city
+--
+s=el bistec
+e=steak
+--
+s=confiar
+e=to trust
+--
+s=el horno
+e=oven/baked/roasted
+--
+s=el popote;(poh-poh-tay)
+e=drinking straw
+--
+s=la man~a
+e=skill
+--
+s=el cuaderno
+e=notebook
+--
+s=el juego / el partido
+e=(2);game / match
+--
+s=la mano
+e=hand
+--
+s=bajar
+e=to take down / to turn down
+--
+s=el bote
+e=tin/jar/boat/bottle/container
+--
+s=la cuchara
+e=spoon
+--
+s=el aparcamiento
+e=parking
+--
+s=encender (for)/;prender (inf)
+e=(2);to turn on / to light
+--
+s=estrecho
+e=narrow / tight
+--
+s=el puente
+e=bridge
+--
+s=la gripa
+e=flu
+--
+s=traicionar
+e=to betray
+--
+s=el canario
+e=canary bird
+--
+s=azul
+e=blue
+--
+s=las letras
+e=lyrics
+--
+s=anhelar
+e=to long for
+--
+s=te quiero a mi lado
+e=I want you by my side
+--
+s=brotar
+e=to sprout / to appear
+--
+s=la espuma
+e=foam
+--
+s=puro-a
+e=pure (adj.)
+--
+s=vender
+e=to sell
+--
+s=hervir
+e=to boil
+--
+s=plegar
+e=to fold
+--
+s=la garganta
+e=throat
+--
+s=flojo
+e=loose / weak
+--
+s=la tarea
+e=homework / task
+--
+s=desnuda
+e=naked
+--
+s=estar a punto de ...
+e=to be about to do ...
+--
+s=hace mal tiempo
+e=it is bad weather
+--
+s=el cuello;(koo-way-yo)
+e=neck / collar
+--
+s=estas muy equivoca
+e=you're very wrong
+--
+s=la estacio'n (year)/;la temporada (sport/activity)
+e=(2);season
+--
+s=delante
+e=infront
+--
+s=detra's
+e=behind
+--
+s=este
+e=east
+--
+s=el rinco'n / la esquina
+e=(2);corner (room/street)
+--
+s=conseguir
+e=to get / obtain / achieve
+--
+s=cocinar/cocer
+e=(2);to cook
+--
+s=[el] helado
+e=ice cream (noun);frozen (adj)
+--
+s=al tanteo
+e=hit or miss
+--
+s=el barco
+e=boat
+--
+s=velero
+e=sailboat
+--
+s=escoger
+e=to choose
+--
+s=tratar de / intentar
+e=(2);to try / attempt
+--
+s=desviar
+e=to divert
+--
+s=traer
+e=to bring
+--
+s=la camiseta;(kah-mee-sehtah)
+e=t-shirt
+--
+s=[yo] no te vi (vee)
+e=I did not see you
+--
+s=renacer
+e=to be reborn
+--
+s=la sa'bana
+e=bed sheet
+--
+s=los ingresos
+e=income
+--
+s=la carta
+e=letter;(as in "to send a _")
+--
+s=[yo] debo irme ahora
+e=I should leave now
+--
+s=hasta
+e=until
+--
+s=borracho-a
+e=drunk
+--
+s=sobrio-a
+e=sober
+--
+s=quedas despedido
+e=you're fired
+--
+s=medias de seda
+e=silk stockings
+--
+s=saltar a
+e=to appear
+--
+s=la actitud
+e=attitude
+--
+s=desagradar
+e=to dislike
+--
+s=la camisa
+e=shirt
+--
+s=convertir
+e=to convert/to become
+--
+s=amenaza de muerte
+e=death threat
+--
+s=la ma'quina;(mah-key-nah)
+e=machine
+--
+s=antiguo;(ahn-tee-go)
+e=old/ ancient;old-fashioned
+--
+s=apuntar
+e=to note down;to point
+--
+s=el ajo
+e=garlic
+--
+s=facilitar
+e=to make easier;to facilitate
+--
+s=la empresa
+e=company/enterprise
+--
+s=el cielo
+e=sky, heaven
+--
+s=el cuchillo
+e=knife
+--
+s=vecino
+e=neighbor
+--
+s=pobre
+e=poor
+--
+s=manzana
+e=apple
+--
+s=la lluvia
+e=rain
+--
+s=catorce
+e=fourteen
+--
+s=sordo
+e=deaf
+--
+s=molestar
+e=to bother / to disturb
+--
+s=el cocodrilo
+e=crocodile
+--
+s=oeste
+e=west
+--
+s=probar
+e=to test / to try out
+--
+s=ancho
+e=wide (door, road, river)
+--
+s=amplio
+e=wide , spacious
+--
+s=la cita
+e=appointment / date
+--
+s=la ca'rcel
+e=jail
+--
+s=tocar
+e=to play (e.g. guitar)
+--
+s=la pluma
+e=fountain pen /;feather
+--
+s=perdonar
+e=to forgive
+--
+s=empujar
+e=to push
+--
+s=negro
+e=black
+--
+s=la estrella
+e=star
+--
+s=el dia menos pensado
+e=when least expected
+--
+s=montar / montando
+e=to ride / riding
+--
+s=una pareja
+e=a couple (relation)
+--
+s=ensen~ar
+e=to teach
+--
+s=la fresa
+e=strawberry
+--
+s=once
+e=eleven
+--
+s=simpa'tico-a / agradable
+e=nice/likeable/friendly
+--
+s=acordar
+e=to agree on
+--
+s=que me parta un rayo
+e=to be doomed/to go to hell;[lit. get struck by lightning]
+--
+s=doce
+e=twelve
+--
+s=el durazno
+e=peach
+--
+s=el relato
+e=story / report
+--
+s=conocido-a
+e=acquaintance (noun); famous/well-known (adj.)
+--
+s=correr / corriendo
+e=to run / running
+--
+s=sinceramente
+e=sincerely / frankly
+--
+s=jurar
+e=to pledge / swear
+--
+s=obvio
+e=obvious
+--
+s=una vez por semana
+e=once a week
+--
+s=te voy a extran~ar muchisimo
+e=I will miss you very much
+--
+s=corto
+e=short
+--
+s=los muebles
+e=furniture
+--
+s=merendar
+e=to snack
+--
+s=pimienta / pimiento
+e=pepper (spice/veg.)
+--
+s=por alli
+e=that way
+--
+s=de (la) cintura para abajo/arriba
+e=from the waist down/up
+--
+s=al fiado / a plazo
+e=(2);on credit
+--
+s=el llavero
+e=keychain / keyring
+--
+s=serio / grave
+e=(2);serious (person/situation)
+--
+s=la manta / la cobija
+e=(2);blanket
+--
+s=bastante
+e=quite/enough;(adj & adv)
+--
+s=desde ahora
+e=from now on
+--
+s=un desorden
+e=a mess
+--
+s=previo, -a
+e=previous, former
+--
+s=me saca de quicio
+e=it gets on my nerve
+--
+s=colocar
+e=to place (position)
+--
+s=la pierna
+e=leg
+--
+s=proteger
+e=to protect
+--
+s=la tormenta
+e=storm
+--
+s=la calidad
+e=quality
+--
+s=conservar
+e=to conserve / preserve
+--
+s=reservar
+e=to reserve
+--
+s=la venganza
+e=revenge / vengeance
+--
+s=inquietar
+e=to worry
+--
+s=por lo tanto / por eso
+e=(2);therefore
+--
+s=ir
+e=to go
+--
+s=el brazo
+e=arm
+--
+s=poco profundo
+e=shallow (lit. & fig.)
+--
+s=trece
+e=thirteen
+--
+s=querer
+e=to want
+--
+s=la fiebre
+e=fever
+--
+s=a propo'sito
+e=by the way
+--
+s=rojo
+e=red
+--
+s=la piscina
+e=swimming pool
+--
+s=el cangrejo
+e=crab
+--
+s=entre
+e=between
+--
+s=firmar
+e=to sign
+--
+s=casi / apenas
+e=(2);hardly / scarcely
+--
+s=gracioso / divertido /;chistoso
+e=(3);funny
+--
+s=la taquilla
+e=box office
+--
+s=puesto-a
+e=post/position/place/job
+--
+s=el marco
+e=frame / goal posts
+--
+s=el abrigo
+e=coat
+--
+s=la jirafa
+e=giraffe
+--
+s=por menudo
+e=in detail
+--
+s=paraguas / sombrilla
+e=(2);umbrella
+--
+s=la almohada
+e=pillow
+--
+s=presentar
+e=to hand in / to show /;to present
+--
+s=catorce
+e=fourteen
+--
+s=perder
+e=to lose
+--
+s=payaso-a
+e=clown
+--
+s=vino blanco
+e=white wine
+--
+s=la semana entrante/pro'xima
+e=(2);next week
+--
+s=la cima
+e=top / peak;(mountain, career)
+--
+s=uno por uno
+e=one by one
+--
+s=ninguno-a
+e=none/not one/no/neither
+--
+s=a toda prisa
+e=as quickly as possible
+--
+s=unos pocos
+e=a few
+--
+s=las joyas
+e=jewelry
+--
+s=aprender
+e=to learn
+--
+s=la palabra
+e=word
+--
+s=noveno
+e=nineth
+--
+s=azu'cer
+e=sugar
+--
+s=donde estabas
+e=where were you
+--
+s=el tramposo-a
+e=cheater
+--
+s=huevos revueltos
+e=scrambled eggs
+--
+s=compan~ero de trabajo
+e=co-worker
+--
+s=la cerreza
+e=cherry
+--
+s=dia de descanso
+e=days off
+--
+s=el anhelo
+e=longing
+--
+s=el hombro
+e=shoulder
+--
+s=la botana
+e=snack
+--
+s=blanco
+e=white
+--
+s=donde no
+e=otherwise
+--
+s=[no] estoy de acuerdo
+e=I [don't] agree
+--
+s=entregar
+e=to deliver / to present
+--
+s=desechar
+e=to throw out / discard /;reject
+--
+s=derrumbar
+e=to demolish / destroy /;collapse
+--
+s=el barrio
+e=neighborhood / district
+--
+s=profundo / hondo-a
+e=(2);deep (fig. & lit)
+--
+s=el collar
+e=necklace
+--
+s=la llave
+e=key / faucet
+--
+s=saltar a la luz
+e=to come to light
+--
+s=el quicio
+e=doorjamb
+--
+s=justo-a
+e=just/fair
+--
+s=las paredes oyen
+e=the walls have ears
+--
+s=mandar
+e=to order / to send / to rule
+--
+s=la bruja
+e=witch
+--
+s=a cada rato
+e=all the time
+--
+s=ordenado
+e=tidy / organized
+--
+s=la sandia
+e=watermellon
+--
+s=hacer pinta
+e=to play hookey
+--
+s=pasta de dientes
+e=toothpase
+--
+s=el clavo
+e=nail (hammer & _)
+--
+s=escondidas / oculto
+e=(2);hidden
+--
+s=jale
+e=pull
+--
+s=el almuerzo
+e=lunch
+--
+s=el globo
+e=balloon
+--
+s=suave
+e=soft
+--
+s=inolvidable
+e=unforgettable
+--
+s=la herida
+e=wound / injury
+--
+s=calvo / pelo'n
+e=bald (no hair)
+--
+s=se'ptimo
+e=seventh
+--
+s=cobarde
+e=coward[ly]
+--
+s=el venado
+e=deer
+--
+s=el orgullo
+e=pride
+--
+s=viuda
+e=widow
+--
+s=anaranjado
+e=orange (color)
+--
+s=la galleta
+e=cookie / biscuit
+--
+s=el camino
+e=road / path / way / journey
+--
+s=la localidad
+e=town / locality/; ticket (box office)
+--
+s=la plata
+e=silver
+--
+s=sucio
+e=dirty
+--
+s=la roca
+e=rock
+--
+s=apostar / apostando
+e=to bet / betting
+--
+s=enojado
+e=angry
+--
+s=egoista
+e=selfish
+--
+s=sobre mi cada'ver
+e=over my dead body
+--
+s=el techo/el tejado
+e=(2);roof / ceiling
+--
+s=el pecho / la pechuga
+e=chest / breast
+--
+s=castigar
+e=to punish/penalize
+--
+s=descansar
+e=to rest
+--
+s=el rato'n
+e=mouse
+--
+s=apagar
+e=to turn off
+--
+s=deja de hacer eso!
+e=stop doing that!
+--
+s=las uvas
+e=grapes
+--
+s=paso a paso
+e=step by step
+--
+s=el manantial
+e=spring (water)/;source (fig.)
+--
+s=frente a frente
+e=face to face
+--
+s=la biblioteca
+e=library
+--
+s=hundir
+e=to sink
+--
+s=amarillo
+e=yellow
+--
+s=desvelar
+e=to reveal/;to keep awake
+--
+s=quisiera pedir ...
+e=I wish (would like) to order ...
+--
+s=contra
+e=against
+--
+s=naranja
+e=orange (fruit)
+--
+s=ir para atra's/adelante
+e=to go back/forward
+--
+s=siga me
+e=follow me
+--
+s=el la'piz
+e=pencil
+--
+s=la amistad
+e=friendship
+--
+s=zorra
+e=slut/skank;(lit. female fox)
+--
+s=la enfermera-o
+e=nurse
+--
+s=el diccionario
+e=dictionary
+--
+s=la farmacia
+e=pharmacy
+--
+s=colgar / colgando
+e=to hang / hanging
+--
+s=tirar
+e=to throw/drop/shoot/fire/;play/take(goal)/flunk
+--
+s=la cadera
+e=hip (noun, body part)
+--
+s=norte
+e=north
+--
+s=exprimir
+e=to squeeze
+--
+s=desde hace dos an~os
+e=since two years ago
+--
+s=pedir
+e=to ask for / to order / to request
+--
+s=mensual
+e=monthly / per month
+--
+s=esto es una pesadilla
+e=this is a nightmare
+--
+s=la tapadura
+e=tooth filling
+--
+s=baja la radio
+e=turn down the radio
+--
+s=relacionar
+e=to connect/link
+--
+s=a lo menos
+e=at least
+--
+s=mayo
+e=may
+--
+s=como siempre
+e=like always
+--
+s=insensato-a
+e=senseless / foolish
+--
+s=asi y todo
+e=in spite of
+--
+s=mal aliento
+e=bad breath
+--
+s=el espejo
+e=mirror
+--
+s=tonto-a/estu'pido-a/idiota
+e=silly/stupid/idiot
+--
+s=saltar/saltando
+e=to jump/jumping
+--
+s=entre las dos y las cuatro de la tarde
+e=between 2 and 4 in the afternoon
+--
+s=despacio
+e=slowly
+--
+s=el arroz
+e=rice
+--
+s=los frijoles
+e=beans
+--
+s=que quiere decir esta palabra?
+e=what does that word mean?
+--
+s=cumplir su palabra
+e=to keep one's word
+--
+s=ahijado-a;(aye-hado)
+e=godson
+--
+s=antes
+e=before
+--
+s=despue's
+e=after
+--
+s=primavera
+e=spring
+--
+s=escapar
+e=to run away / escape
+--
+s=rascar
+e=to scratch
+--
+s=el pasillo
+e=corridor/hallway
+--
+s=oir;oigo,oyes,oye,oimos,-,oyen
+e=to hear
+--
+s=olvidadizo-a
+e=forgetful
+--
+s=la gorra
+e=cap
+--
+s=valorizar
+e=to value [someone]
+--
+s=las notas
+e=marks / grades;(school)
+--
+s=la nuez
+e=walnut
+--
+s=yo en tu lugar
+e=If I were you/;If I was in your place
+--
+s=la tentacio'n
+e=temptation
+--
+s=nadie;(nah-deh-yeh)
+e=nobody
+--
+s=corregir
+e=to correct
+--
+s=chismoso-a
+e=gossip/gossipy
+--
+s=noticia de u'ltima hora
+e=newsflash
+--
+s=secar
+e=to dry
+--
+s=el compromiso
+e=commitment/engagement
+--
+s=el delito
+e=crime/offense
+--
+s=quedar impune
+e=to go unpunished
+--
+s=funcionar;(foon-sion-ahr)
+e=to function
+--
+s=no funciona
+e=out of order (broken)
+--
+s=quince
+e=fifteen
+--
+s=quien
+e=who/whom
+--
+s=residir;(reh-see-deer)
+e=to reside
+--
+s=la temporada alta
+e=the high season (tourism)
+--
+s=insoportable
+e=unbearable/intolerable
+--
+s=municipio;(moo-nee-see-pee-yoh)
+e=municipality/town
+--
+s=la razo'n por la que...
+e=reason why...
+--
+s=mientras
+e=while (conjunction)
+--
+s=emigrar
+e=to emigrate/migrate
+--
+s=pasar
+e=to pass/to spend/;to go through (red light)
+--
+s=el caso
+e=the case/situation
+--
+s=la orilla
+e=shore/bank/edge
+--
+s=aprovechar
+e=to make the most of/;to take advanatage of
+--
+s=ma's vale tarde que nunca
+e=better late than never
+--
+s=octavo
+e=eighth
+--
+s=quiza's
+e=perhaps
+--
+s=la espada
+e=sword
+--
+s=pegar
+e=to stick/glue/hit
+--
+s=el suspiro
+e=sigh (noun)/;hissing of wind
+--
+s=tener cosquillas
+e=to be ticklish
+--
+s=depender
+e=to depend
+--
+s=la cartera
+e=wallet/briefcase/portfolio
+--
+s=en voz baja
+e=whispering
+--
+s=la barba
+e=beard
+--
+s=pendiente
+e=outstanding/unresolved
+--
+s=el ordenador/computador-a
+e=(2);computer
+--
+s=colar
+e=to strain (pasta)/to push in (cut-in-line)/;to gatecrash
+--
+s=el sender
+e=path
+--
+s=estallar
+e=to explode/burst/breakout
+--
+s=la sombra
+e=shadow
+--
+s=la pantalla
+e=screen (comp., movie, etc.)
+--
+s=he tenido que venir solo
+e=I had to come alone
+--
+s=la etapa
+e=stage/phase;(NOT theatre)
+--
+s=acordarse
+e=to remember to do something
+--
+s=la pera
+e=pear
+--
+s=doblar
+e=to turn/bend/fold/double
+--
+s=la plancha
+e=iron/grill
+--
+s=hace poco
+e=recently/just now
+--
+s=la pregunta
+e=question
+--
+s=la respuesta
+e=answer
+--
+s=el si'ntoma
+e=symptom
+--
+s=retrasar;(reh-trah-sahr)
+e=to delay
+--
+s=poder
+e=to be able to
+--
+s=pan tostado
+e=toast (bread)
+--
+s=la manifestacio'n
+e=demonstration (political)
+--
+s=raro/extran~o
+e=(2);strange/odd/weird
+--
+s=atar
+e=to tie up
+--
+s=encontrar
+e=to find/to meet;(i.e. "I found him sleeping")
+--
+s=nu'mero equivocado
+e=wrong number (telephone)
+--
+s=complicado-a
+e=complicated
+--
+s=el capricho
+e=whim
+--
+s=la dieta / el re'gimen
+e=(2);diet (daily/restricted)
+--
+s=cuando quiera
+e=whenever
+--
+s=agradar
+e=to like (formal)
+--
+s=el pavo
+e=turkey (bird)
+--
+s=los palomitas
+e=popcorn
+--
+s=estudiante / alumno
+e=(2);student
+--
+s=enviar una carta
+e=send a letter
+--
+s=asi que
+e=so/therefore/that is why
+--
+s=el avio'n sale a las nueve
+e=the plane leaves at nine
+--
+s=las tiendas esta'n abiertas
+e=the stores are open
+--
+s=el libro
+e=book
+--
+s=importante
+e=important
+--
+s=entrar
+e=to enter
+--
+s=boto'n
+e=button (shirt)
+--
+s=rezar
+e=to pray
+--
+s=aumento
+e=rise
+--
+s=caida
+e=fall (adj.)
+--
+s=echar
+e=to throw
+--
+s=por adelantado
+e=upfront (i.e. pay upfron)
+--
+s=despedir
+e=to fire / to say goodbye
+--
+s=tomar a pecho
+e=to take to heart
+--
+s=el embrujo;(ehm-broo-ho)
+e=curse / spell
+--
+s=pareci'a un suen~o
+e=it was like a dream
+--
+s=parecer
+e=to seem / to look like
+--
+s=maldito-a
+e=wicked / damned
+--
+s=veneno
+e=poison
+--
+s=amargo-a
+e=bitter
+--
+s=de vez en cuando
+e=occasionally/;from time to time
+--
+s=echar de ver
+e=to notice (expression)
+--
+s=el tapete
+e=tablecloth
+--
+s=la pared
+e=wall (internal)
+--
+s=fuera de [toda] duda
+e=beyond [all] doubt
+--
+s=novedoso
+e=novel / original
+--
+s=tener la culpa
+e=to be guilty / at fault
+--
+s=el abuelo-a
+e=grandfather / grandmother
+--
+s=encantado
+e=nice to meet you
+--
+s=el navegador
+e=browser (noun)
+--
+s=navegar
+e=to net surf (verb)
+--
+s=creativo
+e=creative
+--
+s=la temperatura
+e=temperature
+--
+s=[yo] llegue' ayer
+e=I arrived yesterday
+--
+s=timido-a
+e=shy
+--
+s=la izquierda
+e=left
+--
+s=derecho -a
+e=right
+--
+s=la expresio'n
+e=the expression
+--
+s=explicar
+e=to explain
+--
+s=llamar
+e=to call
+--
+s=la entrada
+e=the entrance
+--
+s=la salida
+e=the exit
+--
+s=regalar
+e=to give [away]
+--
+s=que en paz descanse
+e=god rest his soul/;may he rest in peace
+--
+s=gigante;(geeh-gah-ntay)
+e=huge/giant
+--
+s=sufrir
+e=to suffer
+--
+s=leer / leyendo
+e=to read / reading
+--
+s=jugador-ora
+e=player
+--
+s=el anuncio
+e=advertisement / commercial
+--
+s=el supermercado
+e=supermarket
+--
+s=visitar
+e=to visit
+--
+s=quie'n
+e=who
+--
+s=que'
+e=what
+--
+s=donde
+e=where
+--
+s=porque'
+e=why
+--
+s=co'mo
+e=how
+--
+s=cu'ando
+e=when
+--
+s=cua'nto
+e=how much
+--
+s=luna de miel
+e=honeymoon
+--
+s=el camio'n
+e=truck
+--
+s=matar el tiempo
+e=to kill time
+--
+s=tomar
+e=to take / consume
+--
+s=adelante!
+e=go ahead / forward
+--
+s=la bolsa
+e=handbag
+--
+s=complacer
+e=to please
+--
+s=mayor
+e=older
+--
+s=menor
+e=younger
+--
+s=el rio
+e=river
+--
+s=cuesta abajo
+e=downhill
+--
+s=saltar a la vista
+e=to be patently obvious
+--
+s=no hay rosa sin espinas
+e=there's no rose without a thorn
+--
+s=la nota
+e=note (noun)
+--
+s=el infierno
+e=hell
+--
+s=dedicar
+e=to devote
+--
+s=cambiar de tema
+e=to change the subject
+--
+s=pena de muerte
+e=capital punishment
+--
+s=a'brete, se'samo!
+e=open sesame!
+--
+s=el proyecto
+e=project
+--
+s=huelga;(wel-gah)
+e=strike (noun)
+--
+s=si no me equivoco
+e=If I'm not mistaken
+--
+s=el juicio;(hwe-sio)
+e=judgement/trial/opinion
+--
+s=el cordo'n
+e=cord/lace
+--
+s=el horario
+e=schedule/hours
+--
+s=el mensaje
+e=message
+--
+s=el mono
+e=monkey
+--
+s=la madera
+e=wood
+--
+s=el dedo
+e=finger
+--
+s=el sobre
+e=envelope
+--
+s=la vela
+e=candle/;sail (noun)
+--
+s=me muero de hambre
+e=I'm starving
+--
+s=el muro
+e=wall (outside)
+--
+s=el pedazo
+e=piece / bit
+--
+s=la caja
+e=box
+--
+s=la cerradura
+e=lock
+--
+s=poblado
+e=inhabited / bushy
+--
+s=la pasatiempo
+e=hobby
+--
+s=la reunio'n;(roon-yoon)
+e=meeting (office)
+--
+s=no hablamos el mismo idioma
+e=we don't speak the same language
+--
+s=enojar
+e=to get mad/;to anger
+--
+s=llevar
+e=to take / wear
+--
+s=cuidar;(ke-you-dahr)
+e=to take care,;look after
+--
+s=de acuerdo
+e=agreed
+--
+s=el zapato
+e=shoe
+--
+s=cuando voy a verte de nuevo?
+e=when will I see you again?
+--
+s=por aqui
+e=this way
+--
+s=la muerte
+e=death
+--
+s=la cabeza
+e=head
+--
+s=el cacahuete;(kaka-wah-tay)
+e=peanut
+--
+s=creo que ...
+e=I believe that ...
+--
+s=el papel
+e=paper
+--
+s=ya voy
+e=I'm coming
+--
+s=el deseo
+e=desire
+--
+s=el sema'foro
+e=traffic light
+--
+s=el ascensor
+e=elevator
+--
+s=hacer pedazos
+e=to break into pieces
+--
+s=en vez de / en lugar de
+e=(2);instead of
+--
+s=ateo-a
+e=atheist
+--
+s=el teatro
+e=theatre
+--
+s=anteayer
+e=day before yesterday
+--
+s=diga me
+e=tell me
+--
+s=la lana
+e=wool;(mex:money)
+--
+s=todo el mundo
+e=everyone
+--
+s=anfitrio'n-ona
+e=host (person & country)
+--
+s=auriculares;(ah-o-rick-you-la-res)
+e=headphones
+--
+s=el terremoto
+e=earthquake
+--
+s=nervioso
+e=nervous
+--
+s=consentir
+e=to consent/to allow
+--
+s=la cena
+e=dinner
+--
+s=ahora mismo
+e=right away
+--
+s=platicar
+e=to chat/talk
+--
+s=lleno [de...]
+e=full [of]/covered in
+--
+s=me duele el pie (pee-yay)
+e=my foot hurts
+--
+s=sie'ntate
+e=sit down
+--
+s=nacer
+e=to be born
+--
+s=largo
+e=long
+--
+s=estoy perdido
+e=I'm lost
+--
+s=la silla
+e=chair
+--
+s=otra vez
+e=again
+--
+s=odio esta peli'cula
+e=I hate this movie
+--
+s=in estado interesante/;embarazada
+e=(2);pregnant
+--
+s=tus deseos son o'rdenes
+e=your wish is my command
+--
+s=harina
+e=flour
+--
+s=mai'z
+e=corn
+--
+s=las noticias
+e=the news
+--
+s=la avenida
+e=avenue
+--
+s=felicitacion
+e=congratulations
+--
+s=trago'n-ona
+e=greedy
+--
+s=llorar / llorando
+e=to cry / crying
+--
+s=la botella
+e=bottle
+--
+s=espiar
+e=to spy
+--
+s=atraer
+e=to attract;(attention & to like)
+--
+s=la emocio'n
+e=emotion
+--
+s=la iglesia
+e=church
+--
+s=juego sucio
+e=foul play
+--
+s=no me importa
+e=I don't mind
+--
+s=por todos lados
+e=everywhere (exp.)
+--
+s=el labio
+e=lip
+--
+s=desatar
+e=to untie;to unleash
+--
+s=ladrar
+e=to bark
+--
+s=echar la culpa a
+e=to blame (exp.)
+--
+s=la edad
+e=age
+--
+s=ver
+e=to see
+--
+s=travieso-a
+e=naughty / mischievous
+--
+s=feliz / alegre
+e=(2);happy
+--
+s=salvar
+e=to save / rescue
+--
+s=decir
+e=to say
+--
+s=conte'stame!
+e=answer me!
+--
+s=el juez
+e=judge (noun)
+--
+s=el gol
+e=goal (i.e. soccer)
+--
+s=la cebolla
+e=onion
+--
+s=alcoba
+e=bedroom / intimate
+--
+s=la pastilla
+e=pill
+--
+s=tostar
+e=to toast / to tan
+--
+s=la falda
+e=skirt
+--
+s=oton~o
+e=autumn
+--
+s=traducir
+e=to translate
+--
+s=sano
+e=healthy
+--
+s=venir
+e=to come
+--
+s=desodorante
+e=deodorant
+--
+s=colibri;(coh-lee-bree)
+e=humming-bird
+--
+s=desnudar
+e=to undress
+--
+s=junio
+e=june
+--
+s=llevar
+e=to wear / have
+--
+s=la magia
+e=magic
+--
+s=la puerta
+e=door
+--
+s=fuera de si
+e=beside oneself
+--
+s=el piso
+e=the floor
+--
+s=amenazar
+e=to threaten
+--
+s=casi nunca
+e=hardly ever
+--
+s=el cuerpo
+e=body
+--
+s=de'bil
+e=weak
+--
+s=fuerte
+e=strong
+--
+s=dolor de cabeza
+e=headache
+--
+s=alguien
+e=someone / somebody
+--
+s=salchicha
+e=sausage
+--
+s=la un~a;(oon-ya)
+e=finger nail
+--
+s=sabroso / delicioso
+e=(2);delicious
+--
+s=aterrado
+e=terrified
+--
+s=trabar
+e=to fasten/join;to get tangled
+--
+s=por un rato
+e=for a while
+--
+s=mientras viva
+e=as long as I live
+--
+s=resolver
+e=to solve
+--
+s=cuente conmigo
+e=count on me
+--
+s=el desierto
+e=desert
+--
+s=vagar / vagando
+e=to roam / roaming
+--
+s=gerente
+e=manager
+--
+s=terminar
+e=to finish,end
+--
+s=confi'a en mi
+e=trust me
+--
+s=te lo juro
+e=I swear
+--
+s=cuarto
+e=fourth
+--
+s=quinto
+e=fifth
+--
+s=sexto
+e=sixth
+--
+s=conocer
+e=to know/meet
+--
+s=escribe lo
+e=write it down
+--
+s=la carne
+e=meat
+--
+s=la alma
+e=soul / spirit
+--
+s=ide'ntico
+e=identical/;exactly the same
+--
+s=la tos
+e=cough (noun)
+--
+s=toser
+e=to cough
+--
+s=escribir
+e=to write
+--
+s=caer / cayendo
+e=to fall / falling
+--
+s=no paso nada
+e=nothing happened
+--
+s=la oficina
+e=the office
+--
+s=la toalla
+e=towel
+--
+s=el viaje
+e=trip (journey)
+--
+s=la mayoria
+e=most / majority
+--
+s=echar papas
+e=to fib/lie;(expression)
+--
+s=el leo'n
+e=lion
+--
+s=el lago
+e=lake
+--
+s=tenedor libre
+e=all you can eat
+--
+s=la la'grima
+e=tear / teardrop
+--
+s=medir
+e=to measure
+--
+s=caminar / caminando
+e=to walk / walking
+--
+s=pisar
+e=to walk on /;to tread on
+--
+s=caro
+e=expensive
+--
+s=barato
+e=cheap
+--
+s=equipo
+e=team
+--
+s=vestido
+e=dress
+--
+s=dibujar
+e=to draw
+--
+s=suficiente
+e=enough (adj.)
+--
+s=par
+e=pair;(gloves, not couples)
+--
+s=la sangre
+e=blood
+--
+s=romper
+e=to break
+--
+s=implicar
+e=to involve / to imply
+--
+s=el consejo
+e=advice
+--
+s=deber
+e=to have to do something
+--
+s=cepillo de dientes
+e=toothbrush
+--
+s=el conejo
+e=rabbit
+--
+s=el camaro'n
+e=shrimp
+--
+s=un nudo
+e=a knot
+--
+s=prisa
+e=hurry
+--
+s=carin~oso
+e=affectionate
+--
+s=desear
+e=to wish
+--
+s=antiguamente
+e=in the old days
+--
+s=reparar / arreglar
+e=(2);to fix / repair
+--
+s=el armario
+e=closet
+--
+s=caber
+e=to fit
+--
+s=No cabe nadie ma's
+e=there's no room for anyone else
+--
+s=De eso no cabe la menor duda
+e=There is absolutely no doubt about that
+--
+s=sobrevivir
+e=to survive
+--
+s=la fe
+e=faith
+--
+s=la soledad
+e=loneliness / solitude
+--
+s=razonable
+e=reasonable
+--
+s=despertar
+e=to wake up
+--
+s=merecer
+e=to deserve/;to be worthy
+--
+s=ciego
+e=blind
+--
+s=hacer
+e=to make / to do
+--
+s=silbar
+e=to whistle
+--
+s=gratis / libre
+e=(2);free
+--
+s=segundo
+e=second
+--
+s=tercero
+e=third
+--
+s=gritar / gritando
+e=to scream / screaming
+--
+s=la montan~a
+e=mountain
+--
+s=el rayo
+e=ray / beam /;bolt of lightning
+--
+s=la manera
+e=way / manner
+--
+s=el canal
+e=channel;(tv, strait, business)
+--
+s=la puerta principa
+e=front door
+--
+s=el cerdo
+e=pig / pork
+--
+s=el virus;(vee-roos)
+e=virus
+--
+s=mejor
+e=better
+--
+s=peor;(peh-yor)
+e=worse
+--
+s=real
+e=real
+--
+s=aute'ntico
+e=authentic
+--
+s=verdadero
+e=true/real;(as in a "_ gentleman")
+--
+s=destapar
+e=to open / uncover
+--
+s=borrar
+e=to erase / delete
+--
+s=todavia
+e=yet / still
+--
+s=octubre
+e=october
+--
+s=noviembre
+e=november
+--
+s=diciembre
+e=december
+--
+s=flaco / delgado
+e=(2);thin/skinny
+--
+s=el dolor
+e=pain
+--
+s=mala suerte
+e=too bad;(lit: bad luck)
+--
+s=sacar fotos
+e=to take pictures
+--
+s=el momento ma's inoportuno
+e=worst or most awkward moment
+--
+s=artes marciales
+e=martial arts
+--
+s=te lo he dicho / te lo dije
+e=(2);I've told you / I told you
+--
+s=occidental;(oxy-dehn-tahl)
+e=western / westerner
+--
+s=salir
+e=to leave / exit
+--
+s=vos alta
+e=loud voice / aloud
+--
+s=verano
+e=summer
+--
+s=el rey
+e=king
+--
+s=la reina
+e=queen
+--
+s=estoy enojado
+e=I'm angry
+--
+s=abusadora
+e=abusive
+--
+s=la miel
+e=honey
+--
+s=el polvo
+e=dust
+--
+s=la escula
+e=school
+--
+s=dividido
+e=divided
+--
+s=juzgar
+e=to judge
+--
+s=[el] limite
+e=limit (adj & noun)
+--
+s=mejor que nunca
+e=better than ever
+--
+s=preparar
+e=to prepare
+--
+s=la'rgate
+e=get out!
+--
+s=la seda
+e=silk
+--
+s=la fantasma
+e=ghost
+--
+s=la la'stima
+e=pity (noun)
+--
+s=que la'stima
+e=what a shame/;what a pity
+--
+s=precioso
+e=beautiful, lovely, precious
+--
+s=jabo'n en polvo
+e=laundry detergent
+--
+s=el oro
+e=gold
+--
+s=entender
+e=to understand
+--
+s=el tigre
+e=tiger
+--
+s=empresario-a
+e=employer/;businessman
+--
+s=la isla
+e=island
+--
+s=volver la vista
+e=to look back
+--
+s=dormir / durmiendo
+e=to sleep / sleeping
+--
+s=matar
+e=to kill
+--
+s=imaginar
+e=to imagine
+--
+s=abrazo
+e=hug
+--
+s=beso
+e=kiss
+--
+s=un ave
+e=bird
+--
+s=el nin~o
+e=boy
+--
+s=la nin~a
+e=girl
+--
+s=un problema a la vez
+e=one problem at a time
+--
+s=pinche
+e=damn (inf. mex.)
+--
+s=la tumba
+e=grave
+--
+s=adicto-a
+e=addict (noun + adj)
+--
+s=la chispa
+e=spark (noun)
+--
+s=el idioma/;el lenguaje
+e=language(2)
+--
+s=algu'n tiempo / a veces
+e=(2);sometime
+--
+s=contener
+e=to contain/;to restrain onself
+--
+s=el pa'rrafo
+e=paragraph
+--
+s=sacar
+e=to take out / to workout /;to remove
+--
+s=el pasado
+e=the past
+--
+s=futuro;(foo-toh-roh)
+e=future
+--
+s=ven aca'/ven aqui
+e=(2);come here!
+--
+s=abajo
+e=down[stairs]
+--
+s=arriba
+e=up[stairs]
+--
+s=campeo'n-ona
+e=champion
+--
+s=el campeonato
+e=championship
+--
+s=el aire; (eye-ray)
+e=air
+--
+s=la leche
+e=milk
+--
+s=el edificio
+e=building
+--
+s=la flor
+e=flower
+--
+s=una vez
+e=one time
+--
+s=muchas veces
+e=many times
+--
+s=hasta man~ana
+e=see you tomorrow
+--
+s=hasta luego
+e=see you later
+--
+s=clases particulares
+e=private lessons
+--
+s=la gana
+e=desire / wish
+--
+s=cada dia
+e=every day
+--
+s=llenar
+e=to fill
+--
+s=crecer / creciendo
+e=to grow / growing
+--
+s=compartir
+e=to share
+--
+s=compartido-a
+e=shared (adj.)
+--
+s=me da lo mismo
+e=it's all the same to me
+--
+s=rallar
+e=to grate
+--
+s=rallado
+e=grated (i.e. cheese)
+--
+s=que' tan lejos?
+e=how far?
+--
+s=habia una vez
+e=once upon a time
+--
+s=trave's
+e=through (place,object)/;over (time)
+--
+s=varios-as
+e=several
+--
+s=no pongas palabras en mi boca
+e=don't put words in my mouth
+--
+s=la lucha
+e=fight / struggle
+--
+s=hacer cola
+e=to que up /;to stand in line
+--
+s=vuelta
+e=turn!
+--
+s=el cine
+e=cinema/;movie theatre
+--
+s=contar
+e=to count / to include
+--
+s=aunque
+e=although
+--
+s=con permiso
+e=execuse me
+--
+s=perdo'n
+e=pardon
+--
+s=al lado de ...
+e=beside/next to ...
+--
+s=nadar / nadando
+e=to swim / swimming
+--
+s=esconder
+e=to hide/conceal
+--
+s=el reloj
+e=watch/clock
+--
+s=cantar / cantando
+e=to sing / singing
+--
+s=la frase
+e=sentence (grammer)
+--
+s=el negocio
+e=business
+--
+s=estory aburrido
+e=I'm bored
+--
+s=leal
+e=loyal
+--
+s=aceptar;(ah-sep-tar)
+e=to accept
+--
+s=admirar
+e=to admire / respect
+--
+s=el mercado
+e=market
+--
+s=dejar
+e=to leave/;to let go
+--
+s=me vuelves loco
+e=you drive me crazy
+--
+s=el pecado
+e=sin
+--
+s=la mun~eca
+e=doll
+--
+s=sospechar / sospechando
+e=to suspect / suspecting
+--
+s=el/la frente
+e=front / forehead
+--
+s=ocurrir
+e=to occur
+--
+s=siempre
+e=always
+--
+s=nunca
+e=never
+--
+s=la direccio'n
+e=the address
+--
+s=el pico
+e=beak/;summit of mountain
+--
+s=es un hecho conocido
+e=it's a well known fact
+--
+s=ayer
+e=yesterday
+--
+s=hoy
+e=today
+--
+s=man~ana
+e=tomorrow
+--
+s=la broma
+e=joke
+--
+s=no te preocupes
+e=don't worry
+--
+s=estas casada?
+e=are you married?
+--
+s=este lugar es un horno
+e=it's like an oven in here
+--
+s=te mando muchos besos
+e=I'm sending you many kisses
+--
+s=la cama
+e=bed
+--
+s=entretanto/;mientras tanto
+e=(2);meanwhile
+--
+s=que tienes?
+e=what's wrong?
+--
+s=urbano
+e=urban
+--
+s=el jabo'n
+e=soap
+--
+s=la fuerza
+e=force/strength
+--
+s=la llama
+e=flame
+--
+s=en llamas
+e=ablaze
+--
+s=tio/tia
+e=uncle/aunt
+--
+s=primo-a
+e=cousin
+--
+s=pagar
+e=to pay
+--
+s=el caballo
+e=horse
+--
+s=te gusta ir al cine?
+e=do you like to go to the movies?
+--
+s=entonces
+e=then
+--
+s=donde naciste?
+e=where were you born?
+--
+s=naci' en Brasil
+e=I was born in Brazil.
+--
+s=bailar / bailando
+e=to dance / dancing
+--
+s=tarde
+e=evening / late
+--
+s=noche
+e=night
+--
+s=demasiado
+e=too much
+--
+s=la bateria
+e=battery
+--
+s=[in]fiel
+e=[un]faithful
+--
+s=julio
+e=july
+--
+s=agosto
+e=august
+--
+s=septiembre
+e=september
+--
+s=emplear
+e=to use / employ
+--
+s=el librero
+e=bookcase/;book seller
+--
+s=cachondo-a
+e=horny
+--
+s=el lugar
+e=place / position (as in company)
+--
+s=el tatuaje;(ta-too-ah-hay)
+e=tattoo
+--
+s=el boli'grapho
+e=ballpoint pen
+--
+s=el coco
+e=coconut
+--
+s=la pin~a
+e=pineapple
+--
+s=el limo'n
+e=lemon/lime
+--
+s=quemar
+e=to burn
+--
+s=no tengo dinero encima
+e=I don't have any money on me
+--
+s=el oso
+e=bear
+--
+s=en general / por lo general
+e=(2);generally
+--
+s=calor (person)/;caliente (thing)
+e=hot
+--
+s=picante
+e=spicy
+--
+s=fri'o-a
+e=cold
+--
+s=ma's fri'o que el hielo
+e=as cold as ice
+--
+s=cua'ntos an~os tienes?
+e=how old are you?
+--
+s=el regalo
+e=gift
+--
+s=lavar
+e=to wash
+--
+s=comer
+e=to eat
+--
+s=viejo
+e=old (person/thing)
+--
+s=joven
+e=young
+--
+s=nuevo
+e=new
+--
+s=la pena
+e=pain / shame
+--
+s=el ruido;(roo-wee-doh)
+e=noise
+--
+s=la cancio'n
+e=song
+--
+s=juntos
+e=together
+--
+s=pequen~o
+e=small
+--
+s=grande
+e=large
+--
+s=frutos secos
+e=dried fruits
+--
+s=do'nde queda la oficina?
+e=where is the office located?
+--
+s=no es asunto tuyo
+e=it's none of your business
+--
+s=el tipo
+e=type (noun)
+--
+s=la gente
+e=people
+--
+s=dejar de ...
+e=to stop doing ...
+--
+s=las vacaciones
+e=vacation
+--
+s=a primera luz
+e=at dawn
+--
+s=el a'rbol
+e=tree
+--
+s=bombero-a
+e=fireman
+--
+s=las papas fritas
+e=french fries
+--
+s=famosa
+e=famous
+--
+s=visto que
+e=where as/;seeing that
+--
+s=de'me un vaso de agua
+e=give me a glass of water
+--
+s=esta listo-a?
+e=are you ready?
+--
+s=el sol
+e=sun
+--
+s=la luna
+e=moon
+--
+s=al aire libre
+e=in the open air
+--
+s=co'mo se escribe tu nombre?
+e=how do you spell your name?
+--
+s=no tengo ni idea
+e=I don't have any idea
+--
+s=tengo que ir me
+e=I have to go
+--
+s=creer
+e=to believe
+--
+s=el billete;(bee-yet-ay)
+e=ticket (e.g. train)
+--
+s=tarjeta de cre'dito
+e=credit card
+--
+s=sue'ltame
+e=let go of me
+--
+s=la piel
+e=skin/;leather (mex.)
+--
+s=el mundo
+e=world
+--
+s=ca'llate
+e=shut up
+--
+s=rozar
+e=to rub/;to border on
+--
+s=comemos
+e=we eat
+--
+s=a ojos cerrados
+e=blindly
+--
+s=amigos con derechos
+e=friends with benefits
+--
+s=tapar
+e=to cover
+--
+s=despacio voy, porque de prisa estoy
+e=I'm going slow because I'm in a hurry
+--
+s=lo siento
+e=I'm sorry
+--
+s=celebrar
+e=to celebrate
+--
+s=esta cerca de aqui
+e=it is nearby
+--
+s=por u'ltimo / finalmente
+e=(2)finally (lastly)
+--
+s=por fin / finalmente
+e=(2);finally (at last)
+--
+s=los derechos humanos
+e=human rights
+--
+s=por su cuenta
+e=all by himself
+--
+s=la mantequilla
+e=butter
+--
+s=seda dental
+e=dental floss
+--
+s=vivir / viviendo
+e=to live / living
+--
+s=haber
+e=to have
+--
+s=la lata
+e=can (tin or alum.)
+--
+s=comprar
+e=to buy
+--
+s=la basura
+e=trash
+--
+s=quedar
+e=to stay / remain
+--
+s=la oficina para alquilar un coche
+e=car rental office
+--
+s=venga conmigo
+e=come with me
+--
+s=suen~o
+e=sleep / dream
+--
+s=son~ar / son~ando
+e=to dream / dreaming
+--
+s=yo tambien
+e=me too
+--
+s=yo tampoco
+e=neither do I
+--
+s=la bicicleta
+e=bicycle
+--
+s=la motocicleta
+e=motorcycle
+--
+s=tengo que ...
+e=I have to ...
+--
+s=temprano
+e=early
+--
+s=decidir
+e=to decide
+--
+s=dejeme solo
+e=leave me alone
+--
+s=el pez
+e=fish (animal)
+--
+s=el pescado
+e=fish (food)
+--
+s=suspirar
+e=to sigh
+--
+s=robar
+e=to steal
+--
+s=notar
+e=to notice / to note
+--
+s=la pintura
+e=painting / paint
+--
+s=cuando es tu cumplean~os?
+e=when is your birthday?
+--
+s=unos di'as
+e=a few days
+--
+s=te extran~o mucho
+e=I miss you so much
+--
+s=que sopresa tan agradable
+e=what a pleasant surprise
+--
+s=el paquete
+e=parcel / package
+--
+s=ayudar
+e=to help
+--
+s=desde
+e=since
+--
+s=me molesta
+e=it annoys me/;it bothers me
+--
+s=la duda
+e=doubt (noun)
+--
+s=dudar
+e=to doubt
+--
+s=claro que si/no
+e=off course yes/no
+--
+s=el diamante
+e=diamond
+--
+s=el esto'mago
+e=stomach
+--
+s=tal vez/qiuza's
+e=(2);maybe/perhaps
+--
+s=roncar
+e=to snore
+--
+s=asunto
+e=matter / issue
+--
+s=trabajar
+e=to work
+--
+s=para que ...
+e=so that ...
+--
+s=el coche/carro/auto
+e=(3);car
+--
+s=doler/lastimar/herir
+e=to hurt
+--
+s=piensalo bien antes de responder
+e=think carefully before you answer
+--
+s=la pa'gina
+e=page (book or web)
+--
+s=mi habitacio'n esta al fondo del pasillo
+e=my room is at the end of the corridor
+--
+s=el avio'n
+e=airplane
+--
+s=estricto
+e=strict
+--
+s=sudar
+e=to sweat
+--
+s=aqui' hay gato encerrado
+e=there's something fishy going on here
+--
+s=desarrollar
+e=to develop/;to carry out
+--
+s=abierto de mente
+e=open minded
+--
+s=cerrado de mente
+e=close minded
+--
+s=la mente
+e=the mind
+--
+s=pasado man~ana
+e=day after tomorrow
+--
+s=muy mal
+e=very bad
+--
+s=ma's o menos
+e=so-so, ok
+--
+s=guapo-a
+e=handsome
+--
+s=feo-a
+e=ugly
+--
+s=la calle
+e=street
+--
+s=las gafas / los lentes
+e=(2);eyeglasses
+--
+s=celos
+e=jealousy
+--
+s=tener celos
+e=to be jealous
+--
+s=billete de ida y vuelta
+e=round-trip ticket
+--
+s=estoy aqui' de visita
+e=I'm here on a visit
+--
+s=tenemos una hora
+e=we have one hour
+--
+s=una habitacio'n muy oscura
+e=a very dark room
+--
+s=estar pendiente de ...
+e=to await/to wait for (exp.)
+--
+s=peligroso-a
+e=dangerous
+--
+s=que' te gusta hacer?
+e=what do you like to do?
+--
+s=la copa
+e=glass (wine)
+--
+s=el sacrifico
+e=sacrifice
+--
+s=llegar
+e=to arrive
+--
+s=la balanza de cocina
+e=kitchen scales
+--
+s=Estados Unidos
+e=united states
+--
+s=encima
+e=above/over
+--
+s=debajo
+e=below/under
+--
+s=en otros te'rminos
+e=in other words
+--
+s=el sudor
+e=sweat (noun)
+--
+s=enero
+e=january
+--
+s=febrero
+e=february
+--
+s=marzo
+e=march (month)
+--
+s=me gustari'a conocer Australia
+e=I'd like to visit Australia
+--
+s=tener cuidado
+e=to be careful
+--
+s=esperar
+e=to wait
+--
+s=ratero / ladro'n
+e=(2);thief
+--
+s=hacer viaje
+e=to take a trip
+--
+s=estoy cansado
+e=I'm tired
+--
+s=el perro
+e=dog
+--
+s=el gato
+e=cat
+--
+s=la boca
+e=mouth
+--
+s=los ojos
+e=eyes
+--
+s=la oreja
+e=ear
+--
+s=la nariz
+e=nose
+--
+s=cambiar
+e=to change
+--
+s=el equipaje
+e=luggage
+--
+s=a menudo
+e=often
+--
+s=hermano gemelo
+e=twin brother
+--
+s=que hay que hacer
+e=what is there to do
+--
+s=vaya con dios
+e=go with god
+--
+s=[yo] me voy
+e=I'm leaving
+--
+s=[nosotros] nos vamos
+e=we are leaving
+--
+s=haz lo que quieras/has como quieras
+e=(2);do what you want
+--
+s=puedo llevar lo/la
+e=I can take you
+--
+s=es una perdida de tiempo
+e=it's a waste of time
+--
+s=hacer puente
+e=to take a long weekend
+--
+s=queremos comer juntos
+e=we want to eat together
+--
+s=vas a ver
+e=you'll see
+--
+s=deprimido-a
+e=depressed
+--
+s=el matrimonio
+e=marriage
+--
+s=la terapia
+e=therapy
+--
+s=lo'gico
+e=logical
+--
+s=sin querer
+e=accidentally
+--
+s=de colores vivos
+e=colorful
+--
+s=la mochila
+e=backpack
+--
+s=tercermundista
+e=third-world
+--
+s=la verdura/;el vegetal
+e=vegetable (2)
+--
+s=afortunadamente
+e=fortunately
+--
+s=la sopa
+e=soup
+--
+s=el tomate/;jitomate (mex.)
+e=(2);tomato
+--
+s=la lechuga
+e=lettuce
+--
+s=el camello
+e=camel
+--
+s=el banco
+e=bank
+--
+s=asi y ya
+e=just like that
+--
+s=la co'moda
+e=dresser
+--
+s=po'ngase co'modo-a
+e=make yourself at home/get comfortable
+--
+s=periodista (m/f)
+e=journalist / reporter
+--
+s=el fastidio
+e=nuisance, bother
+--
+s=co'modo-a
+e=comfortable
+--
+s=desmayar
+e=to faint
+--
+s=el oriente medio
+e=middle east
+--
+s=especial
+e=special
+--
+s=el truco / la trampa
+e=(2);trick / trap
+--
+s=agresivo-a
+e=aggressive
+--
+s=este/esta
+e=this
+--
+s=ese/esa
+e=that
+--
+s=en el fondo del mar
+e=at the bottom of the sea
+--
+s=el sitio
+e=place/website/taxi-stand
+--
+s=primero
+e=first
+--
+s=u'ltimo
+e=last
+--
+s=fresco-a
+e=fresh / cool
+--
+s=el hombre
+e=man
+--
+s=la mujer
+e=woman
+--
+s=un dia si y otro no
+e=every other day
+--
+s=co'mo no
+e=certainly/why not/sure
+--
+s=me gustaria una fresa
+e=I would like a strawberry
+--
+s=madre
+e=mother
+--
+s=padre
+e=father
+--
+s=hermano-a
+e=brother/sister
+--
+s=sobrino-a
+e=nephew/niece
+--
+s=el paso
+e=passing / step
+--
+s=escuchar
+e=to listen to
+--
+s=sentir
+e=to feel
+--
+s=la escena (es-say-nah)
+e=the scene
+--
+s=Alicia en el pais de las maravillas
+e=Alice in wonderland
+--
+s=la vida familiar
+e=family life
+--
+s=la experiencia
+e=experience
+--
+s=quie'n canta esta cancio'n?
+e=who sings this song?
+--
+s=practicar
+e=to practice
+--
+s=que' voy a hacer?
+e=what shall I do?
+--
+s=derecho
+e=straight ahead
+--
+s=acidez de esto'mago
+e=heartburn
+--
+s=el adolescente
+e=adolescent / teenager
+--
+s=cua'l es su ocupacio'n?
+e=what do you do for a living?
+--
+s=la pelicula
+e=movie/film
+--
+s=para que'?
+e=what's the point;(for what)
+--
+s=que duermas bien
+e=sleep well
+--
+s=me gusta ma's el chocolate que las manzanas
+e=I like chocolate more than apples
+--
+s=el vaso
+e=glass (regular cup)
+--
+s=la playa
+e=beach
+--
+s=cierra la puerta
+e=close the door
+--
+s=abrir la puerta
+e=open the door
+--
+s=la pistola
+e=gun
+--
+s=bienvenidos
+e=welcome
+--
+s=voy a ir al grano
+e=I'm going to get straight to the point
+--
+s=el grano
+e=grain / spot / pimple
+--
+s=tanto mejor
+e=so much the better
+--
+s=he visto a jose
+e=I have seen jose
+--
+s=puedo tener mi cuenta, por favor?
+e=may I have my bill, please?
+--
+s=echar la casa por la ventana
+e=to go all out on a party
+--
+s=por supuesto
+e=off course
+--
+s=una y otra vez
+e=over and over again
+--
+s=hay viento
+e=it's windy
+--
+s=ensalada de fruta
+e=fruit salad
+--
+s=fruta del tiempo
+e=seasonal fruit
+--
+s=no importa
+e=never mind/;it doesn't matter
+--
+s=echar una siesta/suen~os
+e=to take a nap;(lit: throw a nap)
+--
+s=ahora no, mas tarde
+e=not now, later
+--
+s=estar de goma
+e=to have a hangover 
+--
+s=demandar
+e=to sue
+--
+s=estar de luto
+e=to be in mourning
+--
+s=alejar
+e=to move away/;to grow apart
+--
+s=la leyenda
+e=legend
+--
+s=la celda
+e=cell (prison/comp.)
+--
+s=el he'roe
+e=hero
+--
+s=cu'anto cuesta una habitacio'n?
+e=how much does a room cost?
+--
+s=quemadura [del sol]
+e=sunburn
+--
+s=evaporar 
+e=evaporate
+--
+s=leche concentrada 
+e=evaporated milk
+--
+s=la misio'n
+e=mission
+--
+s=el mapa
+e=map
+--
+s=alegria
+e=joy / happiness
+--
+s=cafe' solo
+e=black coffee
+--
+s=sin embargo
+e=however / nevertheless
+--
+s=hasta el momento
+e=so far
+--
+s=el secuestro
+e=kidnapping / hijack
+--
+s=el respaldo
+e=backing / support
+--
+s=delincuencia organizada
+e=organized crime
+--
+s=delitos contra la salud
+e=drug crimes
+--
+s=la salud
+e=health / cheers
+--
+s=perseguir
+e=to pursue / prosecute
+--
+s=li'der
+e=leader
+--
+s=aprehender;(ah-prehn-dare)
+e=to apprehend
+--
+s=ingeniero-a
+e=engineer
+--
+s=detener
+e=to stop / detain
+--
+s=llaves de la ciudad
+e=keys to the city
+--
+s=el vestuario
+e=costume / wardrobe
+--
+s=el concierto
+e=concert
+--
+s=el bate
+e=bat (baseball)
+--
+s=el murcie'lago
+e=bat (animal)
+--
+s=fascinante
+e=fascinating
+--
+s=la investigacio'n
+e=research
+--
+s=ce'lula madre
+e=stem cell
+--
+s=casa de locos
+e=insane asylum
+--
+s=la portada
+e=title page / front page
+--
+s=durante
+e=during
+--
+s=preso (jail);prisionero (captive)
+e=(2);prisoner
+--
+s=al cabo de
+e=after (despues de)/ ~ later
+--
+s=asesino-a
+e=assassin
+--
+s=el muchacho / tipo
+e=(2);guy
+--
+s=el sueldo
+e=salary
+--
+s=invertir
+e=to invest / to reverse
+--
+s=la mejilla
+e=cheek
+--
+s=el codo
+e=elbow
+--
+s=la madrugada
+e=wee hours / dawn
+--
+s=la madrina
+e=maid of honor / godmother
+--
+s=suegro-a
+e=father-in-law / mother-in-law
+--
+s=ojala'
+e=hopefully
+--
+s=cualquier cosa
+e=anything
+--
+s=dar
+e=to give
+--
+s=recibir
+e=to receive
+--
+s=discutir
+e=to discuss
+--
+s=contestar / responder
+e=(2);to answer / reply
+--
+s=rechazar
+e=to reject / refuse
+--
+s=denunciar
+e=to report (police);to denounce
+--
+s=opuesto
+e=opposite
+--
+s=la capa
+e=cape / layer
+--
+s=el pingu:ino
+e=penguin
+--
+s=las vacaciones veraniegas
+e=summer vacation
+--
+s=la raya
+e=line / stripe
+--
+s=semestre
+e=half year
+--
+s=aventurero-a
+e=adventurous
+--
+s=culto-a (adj)
+e=cultured / refined
+--
+s=tanto tiempo sin verte
+e=long time no see
+--
+s=brillante
+e=brilliant
+--
+s=vanidoso-a / vano-a
+e=(2);vain
+--
+s=el culto (noun)
+e=worship / cult
+--
+s=animar
+e=to cheer / encourage
+--
+s=el barril
+e=barrel / draft
+--
+s=una vez y para siempre
+e=once and for all
+--
+s=llevarse una sopresa
+e=to get a surprise
+--
+s=el e'xito
+e=success / hit (music)
+--
+s=tremendo-a
+e=tremendous / enormous
+--
+s=el miembro
+e=member
+--
+s=miembros de la junta
+e=members of the board
+--
+s=cortar
+e=to cut
+--
+s=el eje'rcito
+e=army
+--
+s=el clave
+e=code / key / password
+--
+s=la junta
+e=committee / board
+--
+s=hoy por hoy/;hoy en dia
+e=nowadays / presently
+--
+s=derrotar
+e=to defeat
+--
+s=el milagro
+e=miracle
+--
+s=suplicar
+e=to beg
+--
+s=hora de dormir
+e=bedtime
+--
+s=asqueroso
+e=disgusting
+--
+s=el corte
+e=cut (noun)
+--
+s=la codicia
+e=greed
+--
+s=sombrar
+e=to be shocked / amazed
+--
+s=cordero-a
+e=lamb
+--
+s=cualquiera
+e=any / anyone
+--
+s=apenas (2)
+e=as soon as
+--
+s=ganar tiempo
+e=to save time
+--
+s=llamar al pan pan, y al vino vino
+e=to call a spade a spade
+--
+s=el trimestre
+e=3 months / term
+--
+s=disminuir
+e=to decrease
+--
+s=el desempleo
+e=unemployment
+--
+s=temer
+e=to be afraid (form.)
+--
+s=con tal de que ...
+e=as long as ...
+--
+s=ambos
+e=both
+--
+s=obtener
+e=to obtain, to get
+--
+s=aumentar
+e=to increase
+--
+s=eficaz
+e=effective / efficient
+--
+s=el capi'tulo
+e=chapter
+--
+s=accidente mu'ltiple
+e=pile up
+--
+s=asesino en serie / mu'ltiple
+e=(2);serial killer
+--
+s=resen~ar
+e=to review / to report on
+--
+s=el arete
+e=earring
+--
+s=heredar
+e=to inherit
+--
+s=enterrar
+e=to bury
+--
+s=la ley
+e=law / rules
+--
+s=el agrumento
+e=argument
+--
+s=el asiento
+e=seat
+--
+s=la capital
+e=capital (city)
+--
+s=la ficha
+e=token / chip
+--
+s=la niebla
+e=fog
+--
+s=monto'n
+e=loads of / masses of / ton of
+--
+s=calentar
+e=to heat up / warm up
+--
+s=tener el pico de oro
+e=to be eloquent
+--
+s=el ventilador
+e=fan (air)
+--
+s=el tesoro
+e=treasure
+--
+s=la cajuela / la maletera
+e=(2);car trunk
+--
+s=el aeropuerto
+e=airport
+--
+s=el zoolo'gico
+e=zoo
+--
+s=arquitecto-a
+e=architect
+--
+s=la mansio'n
+e=mansion
+--
+s=el documento
+e=document (noun)
+--
+s=el producto;(proh-duke-toe)
+e=the product
+--
+s=el nido
+e=the nest
+--
+s=la paloma
+e=dove / pigeon
+--
+s=el guante; (gwan-teh)
+e=glove
+--
+s=la guantera
+e=glovebox
+--
+s=la lectura
+e=reading (noun)
+--
+s=lectura o'ptica
+e=optical scanning
+--
+s=la rodilla
+e=knee
+--
+s=concentrar
+e=to concentrate
+--
+s=en carne y hueso
+e=in the flesh
+--
+s=el hueso
+e=bone
+--
+s=voy a cambiarme
+e=I'm going to get changed
+--
+s=afeitar
+e=to shave
+--
+s=acostarse
+e=to lie down, to go to bed
+--
+s=cada vez ma's
+e=more and more
+--
+s=cada ves menos
+e=less and less
+--
+s=u'ltimamente
+e=lately
+--
+s=temblar
+e=to tremble / shake
+--
+s=convencer
+e=to convince
+--
+s=el laberinto
+e=labyrinth / maze
+--
+s=la aventura
+e=adventure
+--
+s=la inspiracio'n
+e=inspiration
+--
+s=ahogar
+e=to drown / smother / quell
+--
+s=la posicio'n
+e=position (noun)
+--
+s=aconsejar
+e=to advise
+--
+s=la confusio'n
+e=confusion
+--
+s=fallar
+e=to get wrong / fail
+--
+s=el encuentro
+e=encounter
+--
+s=que te perdone Dios
+e=may God forgive you
+--
+s=luchar / pelear
+e=(2);to fight
+--
+s=la ferreteri'a
+e=hardware store
+--
+s=el martillo
+e=hammer
+--
+s=elegido;(eli-he-doe)
+e=the elected / chosen
+--
+s=la estatua;(eh-stat-wah)
+e=statue
+--
+s=tener sed
+e=thirsty
+--
+s=el centro comercial
+e=mall
+--
+s=la aran~a
+e=spider
+--
+s=la milla
+e=mile
+--
+s=enfriar
+e=to cool / to go cold
+--
+s=dispuesto
+e=ready / prepared
+--
+s=la alfombra
+e=carpet
+--
+s=la gasolinera 
+e=gas station
+--
+s=la maleta / la petaca
+e=(2);suitcase
+--
+s=pesado-a
+e=heavy
+--
+s=el bu'ho
+e=owl
+--
+s=la tonelada
+e=ton (measure)
+--
+s=cazar
+e=to hunt
+--
+s=la grieta
+e=crack (noun)
+--
+s=subir / subiendo
+e=to rise / rising
+--
+s=la concha
+e=shell (noun)
+--
+s=enemigo-a
+e=enemy
+--
+s=la mascota
+e=pet
+--
+s=recoger
+e=to pick up
+--
+s=la infeccio'n
+e=infection
+--
+s=chocolate por la noticia
+e=you don't say! (old news)
+--
+s=la vida nocturna
+e=nightlife
+--
+s=nocturno-a
+e=night/evening (adj)
+--
+s=sano y salvo
+e=safe and sound
+--
+s=salvo
+e=except
+--
+s=estupendo-a
+e=fantastic / wonderful
+--
+s=el helico'ptero
+e=helicopter
+--
+s=el circo
+e=circus
+--
+s=el cuadrado
+e=square
+--
+s=insistir
+e=to insist
+--
+s=Bueno, si insistes
+e=well, if you insist
+--
+s=el ci'rculo
+e=circle
+--
+s=el triangulo
+e=triangle
+--
+s=el vocabulario
+e=vocabulary
+--
+s=proponer
+e=to propose / to suggest
+--
+s=la ansiedad
+e=anxiety
+--
+s=el hasti'o
+e=boredom
+--
+s=el desmadre
+e=chaos / utter confusion
+--
+s=olimpiadas
+e=olympics
+--
+s=dia de raya
+e=payday
+--
+s=huele pedos
+e=brown noser
+--
+s=el pedo
+e=fart (noun)
+--
+s=bisabuelo-a
+e=great grandfather/mother
+--
+s=pertenecer
+e=to belong
+--
+s=nombre arti'stico
+e=stage name
+--
+s=cruzar
+e=to cross
+--
+s=nevar
+e=to snow
+--
+s=la obra
+e=work (artists output)/;construction site
+--
+s=pa'gina en obras
+e=page under construction.
+--
+s=el archivo / el fichero
+e=(2);file (noun)
+--
+s=estrechamente relacionado
+e=closely related
+--
+s=el sentido del olfato
+e=the sense of smell
+--
+s=la fecha;(feh-chah)
+e=date
+--
+s=la ficha
+e=token / ticket / chip
+--
+s=me olvide' de deci'rtelo.
+e=I forgot to tell you.
+--
+s=Soy un buen tirador
+e=I'm a good shot / marksman
+--
+s=destacado-a
+e=distinguished
+--
+s=semanario
+e=weekly
+--
+s=casa editora
+e=publishing house
+--
+s=el nivel
+e=level (noun)
+--
+s=la recesio'n
+e=recession
+--
+s=la entrevista
+e=interview (noun)
+--
+s=adivinar
+e=to guess
+--
+s=el plazo
+e=period of time
+--
+s=fecha limite
+e=deadline
+--
+s=espero volverte a ver
+e=I hope to see you again
+--
+s=Quie'n pidio la sopa?
+e=who ordered the soup?
+--
+s=hue'rfano
+e=orphan
+--
+s=la mosca
+e=fly (insect)
+--
+s=la hormiga
+e=ant
+--
+s=la hoja
+e=blade/sheet/leaf
+--
+s=acostumbrar
+e=accustomed
+--
+s=causa y efecto
+e=cause and effect
+--
+s=la caricia
+e=caress (noun)
+--
+s=fingir
+e=to pretend
+--
+s=suicidarse;(sway-see-dahr-say)
+e=to commit suicide
+--
+s=la jaula
+e=cage
+--
+s=lobo-a
+e=wolf
+--
+s=la ficcio'n
+e=fiction
+--
+s=el trato
+e=treatement / deal
+--
+s=las tijeras
+e=scissors
+--
+s=el hongo/la seta
+e=(2);mushroom
+--
+s=el calendario
+e=calendar
+--
+s=coser
+e=to sew
+--
+s=coser y cantar
+e=easy as pie (exp.)
+--
+s=la oliva
+e=olive
+--
+s=cantante
+e=singer
+--
+s=molino de viento
+e=windmill
+--
+s=la articulacio'n
+e=joint (body)
+--
+s=alitas de pollo
+e=chicken wings
+--
+s=el aceite
+e=oil (cooking)
+--
+s=montan~a rusa
+e=roller coaster
+--
+s=machacar
+e=to crush / to pound
+--
+s=el teclado
+e=keyboard
+--
+s=si dios quiere
+e=god willing
+--
+s=el taman~o
+e=size (noun)
+--
+s=tiene el taman~o de …
+e=it is the size of ..
+--
+s=la hada
+e=fairy
+--
+s=mago-a
+e=wizard / magician
+--
+s=la piedra
+e=stone
+--
+s=el vampiro
+e=vampire
+--
+s=al otro lado de la calle
+e=across the street
+--
+s=el abogado
+e=lawyer
+--
+s=estamos a mano
+e=we are even
+--
+s=padecer
+e=to suffer from
+--
+s=la ma'scara, el antifaz
+e=mask
+--
+s=el algodo'n
+e=cotton
+--
+s=el pulmo'n
+e=lung
+--
+s=exigir
+e=to demand
+--
+s=tocar bailar (tap dance) con la ma's fea
+e=to draw the short straw
+--
+s=me da vergu:enza/;me da pena
+e=(2);I'm embarrassed
+--
+s=espinacas
+e=spinach
+--
+s=la ballena
+e=whale
+--
+s=entero-a
+e=whole / entire
+--
+s=que hay de postre?
+e=what's for dessert?
+--
+s=cajero [automa'tico]
+e=ATM
+--
+s=propio
+e=own (e.g. own house)
+--
+s=enemigo-a jurado-a
+e=sworn enemy
+--
+s=prefiero sentarme a la sombra
+e=I prefer sitting in the shade
+--
+s=gu:ey (hway)
+e=dude/jerk
+--
+s=la bandera
+e=flag (noun)
+--
+s=resultar
+e=to turn out
+--
+s=el principio
+e=the beginning
+--
+s=hablando del rey de Roma
+e=speak of the devil
+--
+s=puntual
+e=punctual / detailed
+--
+s=[de eso] ni hablar
+e=That's out of the question
+--
+s=la grasa
+e=fat (food)
+--
+s=insistir
+e=to insist
+--
+s=piedras preciosas
+e=precious stones
+--
+s=funcionario-a
+e=civil servant
+--
+s=obligar
+e=to force; (to do something)
+--
+s=la protei'na
+e=protein
+--
+s=el jurado
+e=jury
+--
+s=el testigo
+e=witness
+--
+s=prometer
+e=to promise
+--
+s=encoger
+e=to shrink / shrug
+--
+s=la falta
+e=mistake / lack / shortage
+--
+s=el cabo / la cuerda
+e=(2);rope
+--
+s=una broma pesada
+e= practicle joke
+--
+s=el carrito
+e=shopping cart
+--
+s=al fin y al cabo
+e=after all / when all's said and done
+--
+s=atar cabos
+e=to put two and two together
+--
+s=cabo suelto
+e=loose end
+--
+s=empezar la casa por el tejado
+e=put the horse before the cart
+--
+s=la gira / jira;(he-rah)
+e=tour (noun)
+--
+s=disculpe me, me equivoce de nu'mero
+e=sorry, I dialed the wrong number
+--
+s=la intenci'on
+e=intention
+--
+s=repleto
+e=full of / packed
+--
+s=poli'tica exterior
+e=foreign policy
+--
+s=segunda intenci'on
+e=ulterior motive
+--
+s=los seres vivos
+e=living things
+--
+s=harto
+e=fed up, tired of
+--
+s=la tonteri'a
+e=silliness, nonsense
+--
+s=la noche de brujas
+e=Haloween
+--
+s=ignorar
+e=not to know /; to ignore
+--
+s=co'mo pronuncias _?
+e=how do you pronounce _?
+--
+s=el pan~uelo
+e=handkerchief
+--
+s=el balance
+e=balance, outcome, toll
+--
+s=ligero
+e=light, lightweight, slight
+--
+s=en el amor y la guerra todo se vale
+e=all is fair in love and war
+--
+s=ha sido un día largo
+e=it has been a long day
+--
+s=el fin justifica los medios
+e=the ends justify the means
+--
+s=ls manifestacio'n
+e=protest (noun)
+--
